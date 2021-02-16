@@ -54,6 +54,12 @@ style
 	background:#2F2F2E;
 }
 
+#header2
+{
+	height:102px;
+	background-color: pink; 
+}
+
 #PositionBouton
 {
 	position: relative;
@@ -92,11 +98,11 @@ style
   text-decoration: none;
   color: #fff;
   padding: 8px 0;
-  font-family: verdana;
-  font-size:1.2em
+  font-family: Consolas;
+  font-size:1.6em
 }
 #menu-accordeon ul li a{
-  font-size:1em
+  font-size:1.2em
 }
 #menu-accordeon li:hover {
    background: #729EBF
