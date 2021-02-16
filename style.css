@@ -1,6 +1,6 @@
 h1
 {
-	color: #297C7D;
+	border : 16px solid black;
 }
 
 body
@@ -26,10 +26,19 @@ p
 }
 style 
 { 
-  border: 1px dashed black;
+  border: 10px dashed black;
   display:block;
 }
 
+hr {
+width: 100%;
+height: 20px;
+background-color: black;
+margin-top: 0px;
+margin-bottom: 0px;
+border-width: 0px ;
+border-color: black;
+}
 #imagecenter
  {
   width: 200px;
@@ -80,7 +89,6 @@ style
    background-image: linear-gradient(to bottom, #729EBF 0%, #333A40 100%);
    border-radius: 6px;
    margin-left:2px;
-   box-shadow: 3px 3px 3px #999;
    border:solid 1px #333A40
 }
 #menu-accordeon li li {
